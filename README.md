@@ -15,7 +15,7 @@ The notes cover a wide range of topics, including supervised and unsupervised le
 If you find any errors, have suggestions for improvements, or would like to contribute additional content, please feel free to submit a pull request.
 
 ## License
-The content in this repository is released under the [Creative CommonsL License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The content in this repository is released under the [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Disclaimer
 These course notes are not officially endorsed by Google. Any errors or ommissions are unintentional and not the responsibility of the author.
